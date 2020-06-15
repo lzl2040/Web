@@ -24,5 +24,5 @@ Looking forward to the near future.
 
 ### Contact and Support
 QQ:2040171586    
-Thanks for your support!!!
-Waiting for my upgrade.Now it just starts!!! 
+Thanks for your support!!!    
+Waiting for my upgrade.Beacause now it had just begun!!! 
