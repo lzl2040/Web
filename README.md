@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My Test Website
+It is created just for better trying some interesting things.
+It is no doubt that in this way my ability can get abruptly improved. 
+So just for fun!
 
-You can use the [editor on GitHub](https://github.com/lzl2040/Web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
