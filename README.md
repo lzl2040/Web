@@ -1,8 +1,6 @@
 ## Welcome to My Test Website
 It is created just for better trying some interesting things.   
-
 It is no doubt that in this way my ability can get abruptly improved.    
-
 But in fact it is just for fun!
 
 
